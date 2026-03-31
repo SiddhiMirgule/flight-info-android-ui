@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlightScry</string>
+    <string name="flights">Flights</string>
+    <string name="departure">Departure</string>
+    <string name="arrival">Arrival</string>
+    <string name="duration">Duration</string>
+    <string name="price_per_person">Price per person</string>
+    <string name="status_on_time">On Time</string>
+    <string name="status_delayed">Delayed</string>
+    <string name="status_boarding">Boarding</string>
+    <string name="status_departed">Departed</string>
+</resources>
